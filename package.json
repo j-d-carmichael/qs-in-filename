@@ -1,6 +1,6 @@
 {
   "name": "qs-in-filename",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Write a query string into a filename and extracts",
   "licence": "MIT",
   "main": "build/index.js",

@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "module": "esnext",
-    "moduleResolution": "node",
+    "module": "commonjs",
     "esModuleInterop": true,
+    "target": "ES2017",
+    "moduleResolution": "node",
     "outDir": "build",
     "baseUrl": "./",
     "sourceMap": true,
@@ -16,4 +16,3 @@
     "src/__tests__/**"
   ]
 }
-
